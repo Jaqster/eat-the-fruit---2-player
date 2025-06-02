@@ -1,0 +1,47 @@
+{
+    "image1": {
+        "data": "hwQLAA0AAAAAAC4iIi4AAAAuQkQk4gwA4CJUIiIuDADgQiJCIuIMAIgiYiYiJAwAhn53JiIiDABmeCciQuIMAAB2JiIi7gwAYHd3LuLOAAB2hnbn7gwAAIhgaHfMAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Strawberry"
+    },
+    "image2": {
+        "data": "hwQMAAwAAAAA4CLCAAAAAAAu4i4AAAAAAF7i7g4AAAAATiLiDAAAAIDsIiIOAAAAgMYi4swMAACAhuwuIs4AAHYI4ELi7gAAhwDgJCIuAACHaMgiIi4AAGd3ZiziLgAAh4iIyCLCAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cherry"
+    },
+    "image3": {
+        "data": "hwQMAAsAAABFS03EAAAAAFVdVU0MAAAAVFVVVcQAAAAUVVVURAwAABVVVV1ECwAAFVVV1UQEAAAVVVXVRAQAAFVVVdVEBAAAVFFVVU0LAABAEVVVXQQAAABVVVVVBQAAAERVVV0EAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Lemon"
+    },
+    "image4": {
+        "data": "hwQOAA0AAAAAADs9MwsAAACwM9XTCwAAALAz1VOzAAAAO9NVU70AAAA701VTtQAAsDPTXTM1CwCwM9NbPdULAOs+M1s1VQsAPuIzWzVVCwAu4jNaNVUDAOM+M9o9VQ0AMzMz2r3dDQCrM9Pavd0NAACq09q9OwsA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cake"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hero1"
+    },
+    "image6": {
+        "data": "hwQOABAAAADw/wAAAAAAAG////8P4EQA///I//9OTQD/z8j89P//APCGzGzRboj/xszM9N+EiP/PzExE3YSID8/MTETdhIgPz8zM9N+EiP/whsxs0W6I//bPyPz0//wA///I//9OTQBv////D+BEAPD/AAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hero2"
+    },
+    "image7": {
+        "data": "hwQOABAAAAAAAPD/DwAAAADwX7X770QAAF9VtbtO/Q/wVVX89P+8D/BVtbzRbjnzX1VN9N+UuftfVUtE3ZQ5s19VS0TdlLm7X1VN9N+UOfPwVbW80W658/BVVfz0/7wPAF9VtbtO/Q8A8F+1++9EAAAA8P8PAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hero3"
+    },
+    "image8": {
+        "data": "hwQNABAAAAAA8M//APDuAAD/z///7+QA8P/P/+T//wDw//y/Qb9n//////9Pfmf/////7kR+Zw//z+/uRH5nD//M7/9Pfmf/8P//v0G/Z//w///85P//AAD/z/z/7+QAAMDM/wDw7gAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hero4"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
